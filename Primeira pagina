@@ -1,0 +1,53 @@
+<!doctype html>
+
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+
+<body>
+<title> Meu primeiro site </title>
+<h1> A empresa </h1>
+<p>
+"ipsis litteris é uma expressão de origem latina que significa "pelas mesmas letras", "literalmente" ou "nas mesmas palavras". Utiliza-se para indicar que um texto foi transcrito fielmente[1].
+
+Pode-se também utilizar uma expressão de mesmo significado, ipsis verbis, que quer dizer "pelas mesmas palavras", "textualmente", ou, até mesmo, "tal e qual"".
+</p>
+<br>
+<hr>
+
+
+<h2> Vantagens de ser cliente </h2>
+<!--lista ordenada faz a contagem dos intens -->
+<ol type = "1"> <!--se não definir o type, padrão será numeros-->
+
+<li>Ótimo <strong>atendimento</strong></li>
+<li>Qualidade e preço</li>
+<li>Somos Petfriendly</li>
+
+</ol>
+<br>
+<hr>
+<h2>O que os clientes estão dizendo?</h2>
+
+<em> "Gostamos do atendimento, foi muito rápido e com certeza volarei"</em> <br>
+
+<strong> Sophia, Nala e Sushi</strong>
+<br>
+
+<hr>
+<h2> Mapa do site</h2>
+
+<ul type = "disc"> <!--lista não ordenada não tem contagem, apenas marcadores, circle, square e disc-->
+<li> Home </li>
+<li> Quem somos </li>
+<li> Contato</li>
+<li>Localização</li>
+
+</ul>
+
+
+</body>
+
+
+</html> 
